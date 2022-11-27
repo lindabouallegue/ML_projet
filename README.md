@@ -7,19 +7,19 @@
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lindabouallegue/ML_projet/main)
-<h1>Steps</h1>
+<h2>Steps</h2> 
 
 <div class="alert alert-block alert-info" style="margin-top: 20px">
     <ol>
-        <li><a href="#understanding_data">Visualizing daily marketing reach</a></li>
-        <li><a href="#reading_data">Calculating conversion rate and retention rate</a></li>
-        <li><a href="#data_exploration">Visualizing daily conversion rate</a></li>
-        <li><a href="#simple_regression">Understanding marketing performance across various channels for cohorts of age groups</a></li>
-        <li><a href="#data_exploration">Analyzing retention rates for the campaign</a></li>
-        <li><a href="#data_exploration">Building functions to automate analysis</a></li>
-        <li><a href="#data_exploration">Identifying and resolving inconsistencies</a></li>
-        <li><a href="#data_exploration">Assessing bug impact</a></li>
-        <li><a href="#data_exploration">Personalisation of A/B test</a>
+        <li>Visualizing daily marketing reach</li>
+        <li>Calculating conversion rate and retention rate</li>
+        <li>Visualizing daily conversion rate</li>
+        <li>Understanding marketing performance across various channels for cohorts of age groups</li>
+        <li>Analyzing retention rates for the campaign</li>
+        <li>Building functions to automate analysis</li>
+        <li>Identifying and resolving inconsistencies</li>
+        <li>Assessing bug impact</li>
+        <li>Personalisation of A/B test</li>
         <ul>
         <li>Test allocation</li>
         <li>Calculating list and significance testing</li>
@@ -30,5 +30,5 @@
 </div>
 <br>
 <hr>
-<h1>Démo</h1>
+<h2>Démo</h2>
 <img src="Animation3.gif"/>
